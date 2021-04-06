@@ -1,0 +1,4 @@
+3b solved: https://colab.research.google.com/drive/1nUb_0DbG7s6yKwfwZeWJYQ_E1za-AeZm?usp=sharing
+4a todo: https://colab.research.google.com/drive/1JElEt--8ODlVBIzprNJZlaWvFbJS4iRY?usp=sharing
+4a solved: https://colab.research.google.com/drive/1yJBN1Kvkly_Ve8C0VSxikaQPN0g3dXuF?usp=sharing
+4b todo: https://colab.research.google.com/drive/1wizM5LOyjuOWUftgG5qL907lib9Qcb_M?usp=sharing
